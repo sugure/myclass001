@@ -4,5 +4,6 @@ public class test {
         System.out.println("好");
         System.out.println("4");
         System.out.println("5");
+        System.out.println("6");
     }
 }
